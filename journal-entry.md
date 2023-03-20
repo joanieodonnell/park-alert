@@ -1,4 +1,5 @@
 ParkAlert Wireframe Creation Journal Entry - February 23, 2023
+
 https://www.figma.com/file/pAevenGnINYbHiz2NBTvPk/ParkAlert-Wire-Framing?node-id=1-2.
 
 ParkAlert is an application focused on providing real-time, personalized parking alerts to students based on the type and location of the incident. 
