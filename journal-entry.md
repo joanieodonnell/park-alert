@@ -14,6 +14,7 @@ and stakeholders on the wireframe and made adjustments based on their input. For
 to save parking spots for future use.
 
 Creating a Creative Brief for ParkAlert app - March 8, 2023
+
 https://docs.google.com/document/d/1PA75jB3yAfX-9Gpj3gn1uAdR-AIIb4UIkfsIx2YPUyA/edit?usp=sharing
 
 To create a successful app, we needed to define the app's purpose, target audience, messaging, and design direction. 
