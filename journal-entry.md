@@ -33,5 +33,5 @@ UserTesting.com, and they recruited participants who matched our criteria. We re
 our questions. The feedback we received from UserTesting.com was incredibly valuable. We identified several usability issues that we had not noticed 
 before, and we gained insights into how users were interacting with the app.
 
-
-
+Screen Completion - March 26, 2023
+Today, we continued to make progress on our Park Alert App. After completing the design for the login screen that includes a "continue as guest" option, we moved on to creating the notification preference screen, report view, and homepage with a feed of saved lots. The notification preference screen allows users to choose the types of alerts they want to receive. The homepage includes a feed of saved lots, which allows users to quickly access information about their favorite parks. We've also included buttons and arrows to make it easy for users to navigate between different screens within the app. Our next step is to create the logic that connects all of these screens and buttons together. Overall, we're excited about the progress we've made so far, and we're looking forward to seeing our vision come to life. We're confident that our app will provide park-goers with the tools they need to stay informed and connected.
