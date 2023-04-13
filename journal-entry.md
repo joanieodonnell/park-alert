@@ -40,4 +40,5 @@ Today, we continued to make progress on our Park Alert App. After completing the
 GTM Strategy - April 13, 2023
 
 https://docs.google.com/document/d/1s4QynmD8xywwthLURNJ8KsKOfqQyoRmFWwOZaHVOeWc/edit?usp=sharing
+
 Our GTM strategy is a comprehensive plan that outlines how we will bring our product to market and achieve success. It covers everything from identifying our target audience, developing our messaging and positioning, to identifying the best channels to reach our audience and building partnerships to amplify our reach. We began by conducting market research and analyzing the competitive landscape to better understand the needs and pain points of our target audience. This helped us to craft messaging that resonates with them and highlights our unique value proposition.
