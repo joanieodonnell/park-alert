@@ -36,3 +36,8 @@ before, and we gained insights into how users were interacting with the app.
 Screen Completion - March 26, 2023
 
 Today, we continued to make progress on our Park Alert App. After completing the design for the login screen that includes a "continue as guest" option, we moved on to creating the notification preference screen, report view, and homepage with a feed of saved lots. The notification preference screen allows users to choose the types of alerts they want to receive. The homepage includes a feed of saved lots, which allows users to quickly access information about their favorite parks. We've also included buttons and arrows to make it easy for users to navigate between different screens within the app. Our next step is to create the logic that connects all of these screens and buttons together. Overall, we're excited about the progress we've made so far, and we're looking forward to seeing our vision come to life. We're confident that our app will provide park-goers with the tools they need to stay informed and connected.
+
+GTM Strategy - April 13, 2023
+
+https://docs.google.com/document/d/1s4QynmD8xywwthLURNJ8KsKOfqQyoRmFWwOZaHVOeWc/edit?usp=sharing
+Our GTM strategy is a comprehensive plan that outlines how we will bring our product to market and achieve success. It covers everything from identifying our target audience, developing our messaging and positioning, to identifying the best channels to reach our audience and building partnerships to amplify our reach. We began by conducting market research and analyzing the competitive landscape to better understand the needs and pain points of our target audience. This helped us to craft messaging that resonates with them and highlights our unique value proposition.
